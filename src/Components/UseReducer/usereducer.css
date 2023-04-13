@@ -1,0 +1,16 @@
+p {
+    font-size: 90px;
+    font-weight: 300;
+}
+
+button {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    width: 300px;
+    border: none;
+    outline: none;
+    text-align: center;
+}
